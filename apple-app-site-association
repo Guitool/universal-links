@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "P7PQ543KUV.com.guitool.ulinkTest",
-				"paths": [ "*"]
+				"paths": [ "/login/*"]
 			}
 		]
 	}
